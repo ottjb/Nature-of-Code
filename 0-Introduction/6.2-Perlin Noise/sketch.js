@@ -22,5 +22,5 @@ function draw() {
     xoff += 0.01;
   }
   updatePixels();
-  time += 0.03;
+  time += 0.01;
 }
